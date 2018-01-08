@@ -1,0 +1,22 @@
+{
+  "name": "angularjs1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "manchesterkent <manchesterkent@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src/scripts/"
+  ],
+  "dependencies": {
+    "angular": "^1.6.8"
+  }
+}
